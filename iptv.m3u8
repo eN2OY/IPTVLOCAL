@@ -1,25 +1,74 @@
- x-tvg-url="https://iptv-org.github.io/epg/guides/ae-en/osn.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/ph/clickthecity.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/sg/starhubtvplus.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/sg/mewatch.sg.epg.xml.gz,https://iptv-org.github.io/epg/guides/sg/starhubtvplus.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/us/tvtv.us.epg.xml.gz,https://iptv-org.github.io/epg/guides/us/directv.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/us-pluto/i.mjh.nz.epg.xml.gz,https://iptv-org.github.io/epg/guides/us/tvguide.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/us/gatotv.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/us/ontvtonight.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/us-en/beinsports.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/uk/sky.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/uk/virginmedia.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml.gz,https://iptv-org.github.io/epg/guides/hk-en/nowplayer.now.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/au/ontvtonight.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/uk/bt.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/uk/ontvtonight.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/uk/tv24.co.uk.epg.xml.gz,https://iptv-org.github.io/epg/guides/kr/seezntv.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/kr/wavve.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/in/dishtv.in.epg.xml.gz,https://static.mediatech.by/epg.xml,https://iptv-org.github.io/epg/guides/tr/tvplus.com.tr.epg.xml.gz,https://iptv-org.github.io/epg/guides/eg-en/elcinema.com.epg.xml.gz,https://raw.githubusercontent.com/bebawy6/EPG/master/allEPG.xml,https://iptv-org.github.io/epg/guides/za/guide.dstv.com.epg.xml.gz"
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/ae-en/osn.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/ph/clickthecity.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/sg/starhubtvplus.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/sg/mewatch.sg.epg.xml.gz,https://iptv-org.github.io/epg/guides/sg/starhubtvplus.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/us/tvtv.us.epg.xml.gz,https://iptv-org.github.io/epg/guides/us/directv.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/us-pluto/i.mjh.nz.epg.xml.gz,https://iptv-org.github.io/epg/guides/us/tvguide.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/us/gatotv.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/us/ontvtonight.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/us-en/beinsports.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/uk/sky.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/uk/virginmedia.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml.gz,https://iptv-org.github.io/epg/guides/hk-en/nowplayer.now.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/au/ontvtonight.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/uk/bt.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/uk/ontvtonight.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/uk/tv24.co.uk.epg.xml.gz,https://iptv-org.github.io/epg/guides/kr/seezntv.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/kr/wavve.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/in/dishtv.in.epg.xml.gz,https://static.mediatech.by/epg.xml,https://iptv-org.github.io/epg/guides/tr/tvplus.com.tr.epg.xml.gz,https://iptv-org.github.io/epg/guides/eg-en/elcinema.com.epg.xml.gz,https://raw.githubusercontent.com/bebawy6/EPG/master/allEPG.xml,https://iptv-org.github.io/epg/guides/za/guide.dstv.com.epg.xml.gz"
 
 -------------Sports Channel--------
 #EXTINF:-1 tvg-id="nbatv.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/512px-NBA_TV.svg.png" tvg-name="NBA TV" group-title="Adorabol : Sports Channel",NBA TV
 http://wayforward.xyz:25461/Evelyn/Knight/53366
+#EXTINF:-1 tvg-id="espn2.us" tvg-name="ESPN 2" tvg-logo="http://n2086.securepoint.io:25461/images/017f41a2ef4ff9d39f45f680b88cd23b.png" group-title="Adorabol : Sports Channel",ESPN 2
+http://wayforward.xyz:25461/Evelyn/Knight/55061
+#EXTINF:-1 tvg-id="skysportsarena.uk" tvg-name="Sky Sports Arena" tvg-logo="http://wayforward.xyz:25461/images/dcf43f17c2443f54cc7e2a3931d58b1f.png" group-title="Adorabol : Sports Channel",Sky Sports Arena
+http://wayforward.xyz:25461/Evelyn/Knight/53977
+#EXTINF:-1 tvg-id="SkySportsCricket.uk" tvg-name="Sky Sports Cricket" tvg-logo="http://hostengine.live:25461/images/dcf43f17c2443f54cc7e2a3931d58b1f.png" group-title="Adorabol : Sports Channel",Sky Sports Cricket
+http://wayforward.xyz:25461/Evelyn/Knight/53978
+#EXTINF:-1 tvg-id="skysportsf1.uk" tvg-name="Sky Sports F1" tvg-logo="http://hostengine.live:25461/images/a9ab091e980651f7a36a359611d6ba92.png" group-title="Adorabol : Sports Channel",Sky Sports F1
+http://wayforward.xyz:25461/Evelyn/Knight/53979
+#EXTINF:-1 tvg-id="skysportsfootball.uk" tvg-name="Sky Sports Football" tvg-logo="http://wayforward.xyz:25461/images/67593998f323465bbdf950fe0179275c.png" group-title="Adorabol : Sports Channel",Sky Sports Football
+http://wayforward.xyz:25461/Evelyn/Knight/53980
+#EXTINF:-1 tvg-id="skysportsgolf.uk" tvg-name="Sky Sports Golf" tvg-logo="http://hostengine.live:25461/images/bfdf22c5f8816ec8f0caf70925f753ea.png" group-title="Adorabol : Sports Channel",Sky Sports Golf
+http://wayforward.xyz:25461/Evelyn/Knight/53981
+#EXTINF:-1 tvg-id="skysportsmainevent.uk" tvg-name="Sky Sports Main Event" tvg-logo="http://wayforward.xyz:25461/images/82bbaa7fad65436f05649cc9b904df80.png" group-title="Adorabol : Sports Channel",Sky Sports Main Event
+http://wayforward.xyz:25461/Evelyn/Knight/53982
+#EXTINF:-1 tvg-id="skysportsmix.uk" tvg-name="Sky Sports Mix" tvg-logo="http://wayforward.xyz:25461/images/f2d64761853ea926420545a4d34eb361.png" group-title="Adorabol : Sports Channel",Sky Sports Mix
+http://wayforward.xyz:25461/Evelyn/Knight/53983
+#EXTINF:-1 tvg-id="skysportsnews.uk" tvg-name="Sky Sports News" tvg-logo="http://hostengine.live:25461/images/e37dc6a2760cc059a02cd3734741ae76.png" group-title="Adorabol : Sports Channel",Sky Sports News
+http://wayforward.xyz:25461/Evelyn/Knight/53984
+#EXTINF:-1 tvg-id="skysportsnfl.uk" tvg-name="Sky Sports NFL" tvg-logo="http://hostengine.live:25461/images/af168af5d45963061b09b1dd5b01473b.png" group-title="Adorabol : Sports Channel",Sky Sports NFL
+http://wayforward.xyz:25461/Evelyn/Knight/53985
+#EXTINF:-1 tvg-id="skysportspremiereleague.uk" tvg-name="Sky Sports Premier League" tvg-logo="http://hostengine.live:25461/images/fdeb5e06273c362896f5da6804d86295.png" group-title="Adorabol : Sports Channel",Sky Sports Premier League
+http://wayforward.xyz:25461/Evelyn/Knight/53986
+#EXTINF:-1 tvg-id="skysportsracing.uk" tvg-name="Sky Sports Racing" tvg-logo="http://wayforward.xyz:25461/images/ac7527fa9e163778c9d73869d1f6f3eb.png" group-title="Adorabol : Sports Channel",Sky Sports Racing
+http://wayforward.xyz:25461/Evelyn/Knight/53987
+#EXTINF:-1 tvg-id="PBA.ph" tvg-name="PBA Philippines"  tvg-logo="https://i.imgur.com/DtUXKEl.png" group-title="Adorabol : Sports Channel",PBA Rush
+https://bit.ly/adorabolpbarush
+
 
 ----‐--------PH Tv Channel--------
+
 #EXTINF:-1 tvg-id="PTV.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/People%27s_Televsion_Network_Incorporated_%28PTV%29.svg/512px-People%27s_Televsion_Network_Incorporated_%28PTV%29.svg.png" tvg-name="PTV" group-title="Adorabol : PH Tv Channel",PTV
 https://ptvchannel.adorabol.workers.dev/stream/PTVPhilippines/master.m3u8
 #EXTINF:-1 tvg-id="Thrill.id" tvg-name="Thrill" tvg-logo="https://i.imgur.com/phLsAet.jpg" group-title="Adorabol : PH Tv Channel",Thrill
 http://1.qqtv.nl:8080/Nancy1/1Nancy/273500
 #EXTINF:-1, tvg-id="" tvg-logo="https://i.imgur.com/1jQZmvR.jpg" group-title="Adorabol : PH Tv Channel",Pie Channel
 https://piechannel.adorabol.workers.dev/stream/iampieofficial/master.m3u8
+#EXTINF:-1 tvg-id="GMAPinoyMiddleEast.ph" tvg-name="GMA Pinoy Middle Esat" tvg-logo="https://i.imgur.com/L6XcXK9.png" group-title="Adorabol : PH Tv Channel",GMA Pinoy TV
+http://1.qqtv.nl:8080/Nancy1/1Nancy/71438
+#EXTINF:-1 tvg-id="CinemaOneGlobal.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Cinema_One_2013_logo.svg/512px-Cinema_One_2013_logo.svg.png" tvg-name="Cinema One" group-title="Adorabol : PH Tv Channel",Cinema One
+http://1.qqtv.nl:8080/Nancy1/1Nancy/52873
+#EXTINF:-1 tvg-id="VivaCinema.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/96/Viva_TV_logo.jpg" tvg-name="VIVA Cinema" group-title="Adorabol : PH Tv Channel",VivaCinema
+http://wayforward.xyz:25461/Evelyn/Knight/179396
+#EXTINF:-1 tvg-id="Kapatid5.ph" tvg-name="Kapatid 5" tvg-logo="https://i.imgur.com/EyllYb4.png" group-title="Adorabol : PH Tv Channel",KAPATID 5
+http://1.qqtv.nl:8080/Nancy1/1Nancy/52874
+#EXTINF:-1 tvg-id="TheFilipinoChannelAsia.us" tvg-logo="https://i.imgur.com/waE1BeJ.png" tvg-name="TFC" group-title="Adorabol : PH Tv Channel",TFC
+https://bit.ly/adoraboltfc
+#EXTINF:-1 tvg-id="CineMo.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2b/Cinemo_logo_vectorized.svg/512px-Cinemo_logo_vectorized.svg.png" tvg-name="Cine Mo" group-title="Adorabol : PH Tv Channel",Cine Mo!
+https://bit.ly/adorabolcinemo
 
 ------------Global Channel--------
 
-#EXTINF:-1 tvg-id="BounceTV.us" tvg-name="BOUNCE TV" tvg-logo="http://glmtv.pw/logo/prestige/United-States/bounce-us.png" group-title="Adorabol : Global Tv Channel",Bounce Tv
+#EXTINF:-1 tvg-id="Bounce.us" tvg-name="Bounce" tvg-logo="http://glmtv.pw/logo/prestige/United-States/bounce-us.png" group-title="Adorabol : Global Tv Channel",Bounce Tv
 http://1.qqtv.nl:8080/Nancy1/1Nancy/395569
 #EXTINF:-1 tvg-id="Andflix.in" tvg-name="&Flix" group-title="Adorabol : Global Tv Channel" tvg-logo="https://i.imgur.com/pEYSyNG.png",&Flix
 http://1.qqtv.nl:8080/Nancy1/1Nancy/7252
 #EXTINF:-1 tvg-id="AndpriveHD.in" tvg-name="&Prive" group-title="Adorabol : Global Tv Channel" tvg-logo="https://i.imgur.com/qyyUlg3.png",&Prive
 http://wayforward.xyz:25461/Evelyn/Knight/69286
+#EXTINF:-1 tvg-id="AMC.us" tvg-name="AMC" tvg-logo="http://wayforward.xyz:25461/images/3654b34017508a963ccce2426e91e4cd.png" group-title="Adorabol : Global Tv Channel",AMC
+http://wayforward.xyz:25461/Evelyn/Knight/53433
+#EXTINF:-1 tvg-id="AMCPlus.us" tvg-name="AMC Plus" tvg-logo="http://n2086.securepoint.io:25461/images/04517081d1a0c875133940d7c846ad99.png" group-title="Adorabol : Global Tv Channel",AMC +
+http://wayforward.xyz:25461/Evelyn/Knight/199591
+#EXTINF:-1 tvg-id="CinemaxEast.us" tvg-name="CINEMAX EAST" tvg-logo="http://wayforward.xyz:25461/images/7921550ec34f00be0860d47b42b21c04.png" group-title="Adorabol : Global Tv Channel",Cinemax
+http://wayforward.xyz:25461/Evelyn/Knight/53412
+#EXTINF:-1 tvg-id="BravoEast.us" tvg-name="Bravo East" tvg-logo="http://n2086.securepoint.io:25461/images/85ffe80302daa68797bf4373e2a2a9c3.png" group-title="Adorabol : Global Tv Channel",Bravo
+http://wayforward.xyz:25461/Evelyn/Knight/53423
+
 
 ------------ SKY  CINEMA---------
 
@@ -62,6 +111,8 @@ http://wayforward.xyz:25461/Evelyn/Knight/53924
 http://wayforward.xyz:25461/Evelyn/Knight/53925
 #EXTINF:-1 tvg-id="BoxHits.uk" tvg-name="BOX HITS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4f/Box_Hits_2016.png" group-title="Adorabol : Music Channel",Box Hits
 http://wayforward.xyz:25461/Evelyn/Knight/53848
+#EXTINF:-1 tvg-id="" tvg-name="HITZ" tvg-logo="https://i.imgur.com/gcV41cu.jpg" group-title="Adorabol : Music Channel",Hits983
+https://watch.hitz983.com/983tv/index.m3u8
 
 ---------------Adorabol : News Channel-------------
 
@@ -105,3 +156,5 @@ https://tv-trtworld.live.trt.com.tr/master.m3u8
 http://210.210.155.37/dr9445/h/h20/index.m3u8
 #EXTINF:-1 tvg-id="BBCEarthAsia.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png" tvg-name="BBC Earth Asia" group-title="Adorabol : News Channel",BBC Earth
 http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/174446
+#EXTINF:-1 tvg-id="ABCNews.us" tvg-name="ABC News" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/663ff244b1d4ce86d4b945dbc1508418.jpg" group-title="Adorabol : News Channel",ABC News
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/2734
