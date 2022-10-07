@@ -1,14 +1,107 @@
-#EXTM3U
-#EXT-X-INDEPENDENT-SEGMENTS
-#EXT-X-STREAM-INF:BANDWIDTH=290288,CODECS="mp4a.40.5,avc1.42c00b",RESOLUTION=256x144,FRAME-RATE=15,VIDEO-RANGE=SDR,CLOSED-CAPTIONS=NONE
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1665157082/ei/evM_Y-m_DMefvcAPtti2sAQ/ip/180.190.189.89/id/RHuXxsGNIio.1/itag/91/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D139/sgovp/gir%3Dyes%3Bitag%3D160/hls_chunk_host/rr1---sn-bavcx-jxcd.googlevideo.com/playlist_duration/30/manifest_duration/30/gcr/ph/vprv/1/playlist_type/DVR/hcs/sd/initcwndbps/581250/mh/Jp/mm/44/mn/sn-bavcx-jxcd/ms/lva/mv/m/mvi/1/pl/21/dover/11/pacing/0/keepalive/yes/fexp/24001373,24007246/mt/1665135159/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,playlist_duration,manifest_duration,gcr,vprv,playlist_type/sig/AOq0QJ8wRgIhANapbUAhlznVYIllEhQIstBtr1HYgoAMCujYaaq8UAdIAiEAr_i3WvuE8OVJaA3W5XIYtHM2BhPvNw_R1aP49yuh1NU%3D/lsparams/hls_chunk_host,hcs,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRAIgOxGlmEVFzCoG1-CEh8uv9YaFb422FsNkqh6jbU3xdEACICWgJC394q3xMiV1WVkP6zYMPwuoBIbsyzjG6Y3yAUKi/playlist/index.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=546239,CODECS="mp4a.40.5,avc1.4d4015",RESOLUTION=426x240,FRAME-RATE=30,VIDEO-RANGE=SDR,CLOSED-CAPTIONS=NONE
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1665157082/ei/evM_Y-m_DMefvcAPtti2sAQ/ip/180.190.189.89/id/RHuXxsGNIio.1/itag/92/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D139/sgovp/gir%3Dyes%3Bitag%3D133/hls_chunk_host/rr1---sn-bavcx-jxcd.googlevideo.com/playlist_duration/30/manifest_duration/30/gcr/ph/vprv/1/playlist_type/DVR/hcs/sd/initcwndbps/581250/mh/Jp/mm/44/mn/sn-bavcx-jxcd/ms/lva/mv/m/mvi/1/pl/21/dover/11/pacing/0/keepalive/yes/fexp/24001373,24007246/mt/1665135159/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,playlist_duration,manifest_duration,gcr,vprv,playlist_type/sig/AOq0QJ8wRQIhAObwUM6Lqa1ndaAtZrvO1liWleZD9jZB19t4mXHpuDoAAiBYs473F8JfzmPplLuBQEaxLRySKY5VPj1peH0NEX7ajw%3D%3D/lsparams/hls_chunk_host,hcs,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRQIgF5iSKLJCH8QBKyc-o2LuK6Q8Ai8qYBbkw-HLTJsBs0wCIQDaZs8VHpUR7oOAZsdzIIpq1B3mvpri3qT03XTaHu6GQg%3D%3D/playlist/index.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=1209862,CODECS="mp4a.40.2,avc1.4d401e",RESOLUTION=640x360,FRAME-RATE=30,VIDEO-RANGE=SDR,CLOSED-CAPTIONS=NONE
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1665157082/ei/evM_Y-m_DMefvcAPtti2sAQ/ip/180.190.189.89/id/RHuXxsGNIio.1/itag/93/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D134/hls_chunk_host/rr1---sn-bavcx-jxcd.googlevideo.com/playlist_duration/30/manifest_duration/30/gcr/ph/vprv/1/playlist_type/DVR/hcs/sd/initcwndbps/581250/mh/Jp/mm/44/mn/sn-bavcx-jxcd/ms/lva/mv/m/mvi/1/pl/21/dover/11/pacing/0/keepalive/yes/fexp/24001373,24007246/mt/1665135159/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,playlist_duration,manifest_duration,gcr,vprv,playlist_type/sig/AOq0QJ8wRgIhAJ7rdnzdak5lc-GZIdKwfOcVElwTRPeuL0saTPgAPAP9AiEA4Sn8Lm2ZHRuGgKFS3rbMnqZirXm2uWPbAwRLAuHHk_s%3D/lsparams/hls_chunk_host,hcs,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRQIgZV5eR5G0iJ681eKQfegZ_Om9cbOor5-Oh4m4ZeoqgnsCIQD3ooA9EPjjnKFkktwdfJKle5ZfU5NnDHZy5gxj64a-MQ%3D%3D/playlist/index.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=1568726,CODECS="mp4a.40.2,avc1.4d401f",RESOLUTION=854x480,FRAME-RATE=30,VIDEO-RANGE=SDR,CLOSED-CAPTIONS=NONE
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1665157082/ei/evM_Y-m_DMefvcAPtti2sAQ/ip/180.190.189.89/id/RHuXxsGNIio.1/itag/94/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D135/hls_chunk_host/rr1---sn-bavcx-jxcd.googlevideo.com/playlist_duration/30/manifest_duration/30/gcr/ph/vprv/1/playlist_type/DVR/hcs/sd/initcwndbps/581250/mh/Jp/mm/44/mn/sn-bavcx-jxcd/ms/lva/mv/m/mvi/1/pl/21/dover/11/pacing/0/keepalive/yes/fexp/24001373,24007246/mt/1665135159/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,playlist_duration,manifest_duration,gcr,vprv,playlist_type/sig/AOq0QJ8wRgIhAPjI0AV9PVz_Qhe7FeonA9HPQDXbedNK-EyJi_eP48pSAiEA-HTNgFOMLRk1xZcYDNB9Tu-fmcSH6PS8MIZ99ZvUkvg%3D/lsparams/hls_chunk_host,hcs,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRQIhAJaZAckIbvlI3lADsgunk-yw1CTWWClC7-M-oiUf5Wm3AiBFL7nJr127Uz8n03DROXnDvXQi65Wx3_ulgxuP7-74AA%3D%3D/playlist/index.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=2969452,CODECS="mp4a.40.2,avc1.4d401f",RESOLUTION=1280x720,FRAME-RATE=30,VIDEO-RANGE=SDR,CLOSED-CAPTIONS=NONE
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1665157082/ei/evM_Y-m_DMefvcAPtti2sAQ/ip/180.190.189.89/id/RHuXxsGNIio.1/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/rr1---sn-bavcx-jxcd.googlevideo.com/playlist_duration/30/manifest_duration/30/gcr/ph/vprv/1/playlist_type/DVR/hcs/sd/initcwndbps/581250/mh/Jp/mm/44/mn/sn-bavcx-jxcd/ms/lva/mv/m/mvi/1/pl/21/dover/11/pacing/0/keepalive/yes/fexp/24001373,24007246/mt/1665135159/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,playlist_duration,manifest_duration,gcr,vprv,playlist_type/sig/AOq0QJ8wRgIhAK_ZLGA9UfYxzVBnX_y94PGoh3qDr2WGE94DGFI3nMcmAiEAjNlDY5Ljwkaggeb5H4TWZlXrm7n4jVuDAxm0jlId9e4%3D/lsparams/hls_chunk_host,hcs,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRQIhAP8YbktZJoeH28dhVIo4dDD43gULi5mK3YR0FEA2COX8AiAi_6mws0fdExd3hYApJjNSCsakYz9SSnkqvwd-RFHP6A%3D%3D/playlist/index.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=5420722,CODECS="mp4a.40.2,avc1.640028",RESOLUTION=1920x1080,FRAME-RATE=30,VIDEO-RANGE=SDR,CLOSED-CAPTIONS=NONE
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1665157082/ei/evM_Y-m_DMefvcAPtti2sAQ/ip/180.190.189.89/id/RHuXxsGNIio.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/hls_chunk_host/rr1---sn-bavcx-jxcd.googlevideo.com/playlist_duration/30/manifest_duration/30/gcr/ph/vprv/1/playlist_type/DVR/hcs/sd/initcwndbps/581250/mh/Jp/mm/44/mn/sn-bavcx-jxcd/ms/lva/mv/m/mvi/1/pl/21/dover/11/pacing/0/keepalive/yes/fexp/24001373,24007246/mt/1665135159/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,playlist_duration,manifest_duration,gcr,vprv,playlist_type/sig/AOq0QJ8wRQIhAKfL8VVJ49pT0KJh5ICvM65RanLB9fCth1IKdDr9W49lAiA_PGztVU3tQoxYLFbP5R2XHlgxnv-FCZbiXiZvQ6JB6Q%3D%3D/lsparams/hls_chunk_host,hcs,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRgIhAPk1nFISk2YutdsTFyrpWiVMyWmP-6QAPXDNpsBro7enAiEAgRc4aj2WSiyakKafGLJvbf5VEOBlDYW2QudlzWdE7Ik%3D/playlist/index.m3u8
+ x-tvg-url="https://iptv-org.github.io/epg/guides/ae-en/osn.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/ph/clickthecity.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/sg/starhubtvplus.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/sg/mewatch.sg.epg.xml.gz,https://iptv-org.github.io/epg/guides/sg/starhubtvplus.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/us/tvtv.us.epg.xml.gz,https://iptv-org.github.io/epg/guides/us/directv.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/us-pluto/i.mjh.nz.epg.xml.gz,https://iptv-org.github.io/epg/guides/us/tvguide.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/us/gatotv.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/us/ontvtonight.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/us-en/beinsports.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/uk/sky.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/uk/virginmedia.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml.gz,https://iptv-org.github.io/epg/guides/hk-en/nowplayer.now.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/au/ontvtonight.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/uk/bt.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/uk/ontvtonight.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/uk/tv24.co.uk.epg.xml.gz,https://iptv-org.github.io/epg/guides/kr/seezntv.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/kr/wavve.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/in/dishtv.in.epg.xml.gz,https://static.mediatech.by/epg.xml,https://iptv-org.github.io/epg/guides/tr/tvplus.com.tr.epg.xml.gz,https://iptv-org.github.io/epg/guides/eg-en/elcinema.com.epg.xml.gz,https://raw.githubusercontent.com/bebawy6/EPG/master/allEPG.xml,https://iptv-org.github.io/epg/guides/za/guide.dstv.com.epg.xml.gz"
+
+-------------Sports Channel--------
+#EXTINF:-1 tvg-id="nbatv.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/512px-NBA_TV.svg.png" tvg-name="NBA TV" group-title="Adorabol : Sports Channel",NBA TV
+http://wayforward.xyz:25461/Evelyn/Knight/53366
+
+----‐--------PH Tv Channel--------
+#EXTINF:-1 tvg-id="PTV.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/People%27s_Televsion_Network_Incorporated_%28PTV%29.svg/512px-People%27s_Televsion_Network_Incorporated_%28PTV%29.svg.png" tvg-name="PTV" group-title="Adorabol : PH Tv Channel",PTV
+https://ptvchannel.adorabol.workers.dev/stream/PTVPhilippines/master.m3u8
+#EXTINF:-1 tvg-id="Thrill.id" tvg-name="Thrill" tvg-logo="https://i.imgur.com/phLsAet.jpg" group-title="Adorabol : PH Tv Channel",Thrill
+http://1.qqtv.nl:8080/Nancy1/1Nancy/273500
+#EXTINF:-1, tvg-id="" tvg-logo="https://i.imgur.com/1jQZmvR.jpg" group-title="Adorabol : PH Tv Channel",Pie Channel
+https://piechannel.adorabol.workers.dev/stream/iampieofficial/master.m3u8
+
+------------Global Channel--------
+
+#EXTINF:-1 tvg-id="BounceTV.us" tvg-name="BOUNCE TV" tvg-logo="http://glmtv.pw/logo/prestige/United-States/bounce-us.png" group-title="Adorabol : Global Tv Channel",Bounce Tv
+http://1.qqtv.nl:8080/Nancy1/1Nancy/395569
+#EXTINF:-1 tvg-id="Andflix.in" tvg-name="&Flix" group-title="Adorabol : Global Tv Channel" tvg-logo="https://i.imgur.com/pEYSyNG.png",&Flix
+http://1.qqtv.nl:8080/Nancy1/1Nancy/7252
+#EXTINF:-1 tvg-id="AndpriveHD.in" tvg-name="&Prive" group-title="Adorabol : Global Tv Channel" tvg-logo="https://i.imgur.com/qyyUlg3.png",&Prive
+http://wayforward.xyz:25461/Evelyn/Knight/69286
+
+------------ SKY  CINEMA---------
+
+#EXTINF:-1 tvg-id="SkyCinemaPremiereHD.uk" tvg-name="" group-title="Adorabol : Sky Cinema Channel" tvg-logo="https://archive.org/download/tvlogos/UK%20-%20Sky%20Premiere.png",Sky Cinema Premiere
+http://wayforward.xyz:25461/Evelyn/Knight/53965
+#EXTINF:-1 tvg-id="SkyCinemaHitsHD.uk" tvg-name="" group-title="Adorabol : Sky Cinema Channel" tvg-logo="https://archive.org/download/tvlogos/UK%20-%20Sky%20Cinema%20hits.png",Sky Cinema Hits
+http://wayforward.xyz:25461/Evelyn/Knight/53964
+#EXTINF:-1 tvg-id="SkyCinemaGreatsHD.uk" tvg-name="" group-title="Adorabol : Sky Cinema Channel" tvg-logo="https://archive.org/download/tvlogos/UK%20-%20Sky%20Cinema%20Greats.png",Sky Cinema Greats
+http://wayforward.xyz:25461/Evelyn/Knight/53963
+#EXTINF:-1 tvg-id="SkyCinemaAnimationHD.uk" tvg-name="" group-title="Adorabol : Sky Cinema Channel" tvg-logo="https://archive.org/download/tvlogos/UK%20-%20Sky%20Cinema%20Animation.png",Sky Cinema Anime
+http://wayforward.xyz:25461/Evelyn/Knight/53957
+#EXTINF:-1 tvg-id="SkyCinemaFamilyHD.uk" tvg-name="" group-title="Adorabol : Sky Cinema Channel" tvg-logo="https://archive.org/download/tvlogos/UK%20-%20Sky%20Cinema%20Family.png",Sky Cinema Family
+http://wayforward.xyz:25461/Evelyn/Knight/53962
+#EXTINF:-1 tvg-id="SkyCinemaActionHD.uk" tvg-name="" group-title="Adorabol : Sky Cinema Channel" tvg-logo="https://archive.org/download/tvlogos/UK%20-%20Sky%20Cinema%20Action.png",Sky Cinema Action
+http://wayforward.xyz:25461/Evelyn/Knight/53956
+#EXTINF:-1 tvg-id="SkyCinemaComedyHD.uk" tvg-name="" group-title="Adorabol : Sky Cinema Channel" tvg-logo="https://archive.org/download/tvlogos/UK%20-%20Sky%20Cinema%20comedy.png",Sky Cinema Comedy
+http://wayforward.xyz:25461/Evelyn/Knight/53959
+#EXTINF:-1 tvg-id="SkyCinemaDramaHD.uk" tvg-name="" group-title="Adorabol : Sky Cinema Channel" tvg-logo="https://archive.org/download/tvlogos/UK%20-%20Sky%20Cinema%20Drama.png",Sky Cinema Drama
+http://wayforward.xyz:25461/Evelyn/Knight/53961
+#EXTINF:-1 tvg-id="SkyCinemaSciFiHorror.uk" tvg-name="" group-title="Adorabol : Sky Cinema Channel" tvg-logo="https://archive.org/download/tvlogos/UK%20-%20Sky%20Cinema%20sci-fi.png",Sky Cinema Sci-Fi & Horror
+http://wayforward.xyz:25461/Evelyn/Knight/53966
+#EXTINF:-1 tvg-id="SkyCinemaThrillerHD.uk" tvg-name="" group-title="Adorabol : Sky Cinema Channel" tvg-logo="https://archive.org/download/tvlogos/UK%20-%20Sky%20Cinema%20Thriller.png",Sky Cinema Thriller
+http://wayforward.xyz:25461/Evelyn/Knight/53967
+#EXTINF:-1 tvg-id="SkyCinemaSelect.uk" tvg-name="" group-title="Adorabol : Sky Cinema Channel" tvg-logo="http://ky-iptv.com:80/images/9a504de4ce274434c60248ccff252e04.png",Sky Cinema Select
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/726
+
+---------- Music Channel-----------
+
+#EXTINF:-1 tvg-id="MTVLive.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/MTV_Live_2021_logo.svg/512px-MTV_Live_2021_logo.svg.png" tvg-name="MTV Live" group-title="Adorabol : Music Channel",MTV Live
+http://wayforward.xyz:25461/Evelyn/Knight/54942
+#EXTINF:-1 tvg-id="MyxPhilippines.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Myxphlogo.svg/512px-Myxphlogo.svg.png" tvg-name="MYX" group-title="Adorabol : Music Channel",Myx PH
+https://myxnola-abscbn-ono.amagi.tv/index_2.m3u8
+#EXTINF:-1 tvg-id="MTVUK.uk" tvg-name="MTV" tvg-logo="http://wayforward.xyz:25461/images/4265a2965ee8eb372b17544cd0393c9c.png" group-title="Adorabol : Music Channel",MTV
+http://wayforward.xyz:25461/Evelyn/Knight/53922
+#EXTINF:-1 tvg-id="MTVBaseUK.uk" tvg-name="MTV BASE" tvg-logo="http://n2086.securepoint.io:25461/images/152d1df64fab554ffb0c3d62e5e0f8af.png" group-title="Adorabol : Music Channel",MTV Base
+http://wayforward.xyz:25461/Evelyn/Knight/53923
+#EXTINF:-1 tvg-id="MTVClassicUK.uk" tvg-name="MTV CLASSIC" tvg-logo="http://n2086.securepoint.io:25461/images/4ae9f7c0528a6e7d212830bec502af5a.png" group-title="Adorabol : Music Channel",MTV Classic
+http://wayforward.xyz:25461/Evelyn/Knight/53924
+#EXTINF:-1 tvg-id="MTVHitsUK.uk" tvg-name="MTV HITS" tvg-logo="http://n2086.securepoint.io:25461/images/92d00d35a3f44f7eee03d2643248b143.png" group-title="Adorabol : Music Channel",MTV Hits
+http://wayforward.xyz:25461/Evelyn/Knight/53925
+#EXTINF:-1 tvg-id="BoxHits.uk" tvg-name="BOX HITS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4f/Box_Hits_2016.png" group-title="Adorabol : Music Channel",Box Hits
+http://wayforward.xyz:25461/Evelyn/Knight/53848
+
+---------------Adorabol : News Channel-------------
+
+#EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/512px-Aljazeera_eng.svg.png" tvg-name="Al Jazeera" group-title="Adorabol : News Channel",Al Jazeera
+https://live-hls-v3-aje.getaj.net/AJE-V3/index.m3u8
+#EXTINF:-1 tvg-id="ANC.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/ANClogo2014.svg/512px-ANClogo2014.svg.png" tvg-name="ANC" group-title="Adorabol : News Channel",ANC
+https://ancglobal-abscbn-ono.amagi.tv/playlist360_p.m3u8
+#EXTINF:-1 tvg-id="BBCWorldNewsAsiaPacific.uk" tvg-logo="https://i.imgur.com/rPzH88J.png" tvg-name="BBC World News" group-title="Adorabol : News Channel",BBC World News
+http://user.scalecdn.co:8080/live/Ron/Ron/2345.ts
+#EXTINF:-1 tvg-id="BloombergTelevision.us" tvg-logo="https://i.imgur.com/2r7utRt.png" tvg-name="Bloomberg TV" group-title="Adorabol : News Channel",Bloomberg TV
+https://bloomberg-bloomberg-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="BloombergTVAsiaPacific.hk" tvg-logo="https://i.imgur.com/2r7utRt.png" tvg-name="Bloomberg TV Asia" group-title="Adorabol : News Channel",Bloomberg TV Asia
+https://bloomberg.com/media-manifest/streams/asia.m3u8
+#EXTINF:-1 tvg-id="CGTN.cn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/512px-CGTN.svg.png" tvg-name="CGTN" group-title="Adorabol : News Channel",CGTN
+https://live.cgtn.com/1000/prog_index.m3u8
+#EXTINF:-1 tvg-id="CNA.sg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/512px-CNA_new_logo.svg.png" tvg-name="CNA" group-title="Adorabol : News Channel",CNA
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+#EXTINF:-1 tvg-id="CNBCAsia.sg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/512px-CNBC_logo.svg.png" tvg-name="CNBC Asia" group-title="Adorabol : News Channel",CNBC Asia
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/157529
+#EXTINF:-1 tvg-id="CNN.us" tvg-logo="https://raw.githubusercontent.com/bebawy6/TVLogos/master/cnn.us.png" tvg-name="CNN Philippines " group-title="Adorabol : News Channel",CNN Global
+https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="CNNPhilippines.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/CNN_Philippines_Logo.svg/512px-CNN_Philippines_Logo.svg.png" tvg-name="CNN PHILIPPINES" group-title="Adorabol : News Channel",CNN Philippines
+https://streaming.cnnphilippines.com/live/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="FoxNewsChannel.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/512px-Fox_News_Channel_logo.svg.png" tvg-name="Fox News" group-title="Adorabol : News Channel",Fox News
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/1611
+#EXTINF:-1 tvg-id="France24English.fr" tvg-logo="https://www.mncvision.id/userfiles/image/channel/france_150px.jpg" tvg-name="France 24" group-title="Adorabol : News Channel",France 24
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/FRANCE24English/live
+#EXTINF:-1 tvg-id="HLN.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/HLN_%28TV_network%29_2017_logo.svg/512px-HLN_%28TV_network%29_2017_logo.svg.png" tvg-name="HLN" group-title="Adorabol : News Channel",HLN
+https://tve-live-lln.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-id="MSNBC.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/MSNBC_2021.svg/512px-MSNBC_2021.svg.png" tvg-name="MSNBC" group-title="Adorabol : News Channel",MSNBC
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/406
+#EXTINF:-1 tvg-id="NewsmaxTV.us" tvg-logo="https://imagizer.imageshack.com/v2/xq90/922/ZSkiru.jpg" tvg-name="Newsmax TV" group-title="Adorabol : News Channel",Newsmax TV
+https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+#EXTINF:-1 tvg-id="NHKWorldJapan.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/512px-NHK_World-Japan_TV.svg.png" tvg-name="NHK World Japan" group-title="Adorabol : News Channel",NHK World Japan
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
+#EXTINF:-1 tvg-id="RTNews.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/RT_America_Logo.png/512px-RT_America_Logo.png" tvg-name="RT News" group-title="Adorabol : News Channel",RT News
+https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
+#EXTINF:-1 tvg-id="TRTWorld.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/TRT_World.svg/512px-TRT_World.svg.png" tvg-name="TRT World" group-title="Adorabol : News Channel",TRT World
+https://tv-trtworld.live.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="TVNAsia.hk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/512px-Logo_tvN.svg.png" tvg-name="tvN" group-title="Adorabol : News Channel",tvN
+http://210.210.155.37/dr9445/h/h20/index.m3u8
+#EXTINF:-1 tvg-id="BBCEarthAsia.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png" tvg-name="BBC Earth Asia" group-title="Adorabol : News Channel",BBC Earth
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/174446
