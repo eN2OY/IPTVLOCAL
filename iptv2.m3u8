@@ -75,3 +75,6 @@ http://wayforward.xyz:25461/Evelyn/Knight/179396
 
 #EXTINF:-1 tvg-id="Kapatid5.ph" tvg-name="Kapatid 5" tvg-logo="https://i.imgur.com/EyllYb4.png" group-title="Adorabol : PH Tv Channel",KAPATID 5
 http://1.qqtv.nl:8080/Nancy1/1Nancy/52874
+
+#EXTINF:-1 tvg-id="TheFilipinoChannelAsia.us" tvg-logo="https://i.imgur.com/waE1BeJ.png" tvg-name="TFC" group-title="Adorabol : PH Tv Channel",TFC
+https://bit.ly/adoraboltfc
