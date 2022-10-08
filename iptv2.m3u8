@@ -69,3 +69,6 @@ https://ptvchannel.adorabol.workers.dev/stream/PTVPhilippines/master.m3u8
 
 #EXTINF:-1 tvg-id="Thrill.id" tvg-name="Thrill" tvg-logo="https://i.imgur.com/phLsAet.jpg" group-title="PH CHANNEL",Thrill
 http://1.qqtv.nl:8080/Nancy1/1Nancy/273500
+
+#EXTINF:-1 tvg-id="VivaCinema.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/96/Viva_TV_logo.jpg" tvg-name="VIVA Cinema" group-title="Adorabol : PH Tv Channel",VivaCinema
+http://wayforward.xyz:25461/Evelyn/Knight/179396
