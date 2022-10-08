@@ -72,3 +72,6 @@ http://1.qqtv.nl:8080/Nancy1/1Nancy/273500
 
 #EXTINF:-1 tvg-id="VivaCinema.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/96/Viva_TV_logo.jpg" tvg-name="VIVA Cinema" group-title="Adorabol : PH Tv Channel",VivaCinema
 http://wayforward.xyz:25461/Evelyn/Knight/179396
+
+#EXTINF:-1 tvg-id="Kapatid5.ph" tvg-name="Kapatid 5" tvg-logo="https://i.imgur.com/EyllYb4.png" group-title="Adorabol : PH Tv Channel",KAPATID 5
+http://1.qqtv.nl:8080/Nancy1/1Nancy/52874
