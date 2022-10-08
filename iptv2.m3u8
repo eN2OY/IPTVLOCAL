@@ -66,3 +66,6 @@ https://stream.zeno.fm/kc3cct89sxquv
 
 #EXTINF:-1 tvg-id="PTV.ph" tvg-name="PTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/People%27s_Televsion_Network_Incorporated_%28PTV%29.svg/512px-People%27s_Televsion_Network_Incorporated_%28PTV%29.svg.png" group-title="PH CHANNEL",PTV
 https://ptvchannel.adorabol.workers.dev/stream/PTVPhilippines/master.m3u8
+
+#EXTINF:-1 tvg-id="Thrill.id" tvg-name="Thrill" tvg-logo="https://i.imgur.com/phLsAet.jpg" group-title="Adorabol : PH Tv Channel",Thrill
+http://1.qqtv.nl:8080/Nancy1/1Nancy/273500
