@@ -219,7 +219,7 @@ https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d2
 #EXTINF:-1 tvg-id="FTVTaiwan.tw" tvg-logo="https://www.ftv.com.tw/images/Ch_03.png" group-title="News",民視台灣 (720p) [Not 24/7]
 http://seb.sason.top/ptv/ftv.php?id=tw
 
-NF:6.006,epid=20080424:epdur=2697437:ct=M:tag=ad:aid=53690503:td=48584
+#EXTINF:6.006,epid=20080424:epdur=2697437:ct=M:tag=ad:aid=53690503:td=48584
 https://nosey-2-us.plex.wurl.tv/53690503/hls-v2/4300-00006.ts?e=1665410675&st=cf667ee360c98d57ef929340c330db0b
 #EXTINF:6.006,epid=20080424:epdur=2697437:ct=M:tag=ad:aid=53690503:td=48584
 https://nosey-2-us.plex.wurl.tv/53690503/hls-v2/4300-00007.ts?e=1665410681&st=94b817e0b30d27b67dd800499b150c5d
