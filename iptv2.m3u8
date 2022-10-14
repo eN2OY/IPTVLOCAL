@@ -237,3 +237,6 @@ http://wayforward.xyz:25461/Evelyn/Knight/53366
 
 #EXTINF:-1 tvg-id="MyxPhilippines.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Myxphlogo.svg/512px-Myxphlogo.svg.png" tvg-name="MYX" group-title="Adorabol : Music Channel",Myx PH
 https://myxnola-abscbn-ono.amagi.tv/index_2.m3u8
+
+#EXTINF:-1 tvg-id="FoxNewsChannel.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/512px-Fox_News_Channel_logo.svg.png" tvg-name="Fox News" group-title="Adorabol : News Channel",Fox News
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/1611
