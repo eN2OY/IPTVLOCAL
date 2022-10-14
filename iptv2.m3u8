@@ -230,3 +230,6 @@ http://1.qqtv.nl:8080/Nancy1/1Nancy/71438
 
 #EXTINF:-1 tvg-id="ANC.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/ANClogo2014.svg/512px-ANClogo2014.svg.png" tvg-name="ANC" group-title="Adorabol : News Channel",ANC
 https://ancglobal-abscbn-ono.amagi.tv/playlist360_p.m3u8
+
+#EXTINF:-1 tvg-id="nbatv.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/512px-NBA_TV.svg.png" tvg-name="NBA TV" group-title="Adorabol : Sports Channel",NBA TV
+http://wayforward.xyz:25461/Evelyn/Knight/53366
