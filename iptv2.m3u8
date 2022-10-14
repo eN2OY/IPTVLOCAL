@@ -240,3 +240,7 @@ https://myxnola-abscbn-ono.amagi.tv/index_2.m3u8
 
 #EXTINF:-1 tvg-id="FoxNewsChannel.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/512px-Fox_News_Channel_logo.svg.png" tvg-name="Fox News" group-title="Adorabol : News Channel",Fox News
 http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/1611
+
+
+#EXTINF:-1 tvg-id="France24English.fr" tvg-logo="https://www.mncvision.id/userfiles/image/channel/france_150px.jpg" tvg-name="France 24" group-title="Adorabol : News Channel",France 24
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/FRANCE24English/live
