@@ -248,3 +248,11 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/FRANC
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/hhd8QjJ.jpg" group-title="Ph local cable channels", A2Z
 https://m3u-editor.com/serve/e0e934f0-39a4-11ed-8cf4-ffdde739f618/644400508
+
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/sxVB1g6.jpg" group-title="Ph local cable channels", Pba Rush
+https://m3u-editor.com/serve/e0e934f0-39a4-11ed-8cf4-ffdde739f618/644400511
+
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/eoQu5jc.jpg" group-title="Ph local cable channels", axn
+https://m3u-editor.com/serve/e0e934f0-39a4-11ed-8cf4-ffdde739f618/644400515
