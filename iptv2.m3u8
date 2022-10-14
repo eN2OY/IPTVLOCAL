@@ -233,3 +233,7 @@ https://ancglobal-abscbn-ono.amagi.tv/playlist360_p.m3u8
 
 #EXTINF:-1 tvg-id="nbatv.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/512px-NBA_TV.svg.png" tvg-name="NBA TV" group-title="Adorabol : Sports Channel",NBA TV
 http://wayforward.xyz:25461/Evelyn/Knight/53366
+
+
+#EXTINF:-1 tvg-id="MyxPhilippines.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Myxphlogo.svg/512px-Myxphlogo.svg.png" tvg-name="MYX" group-title="Adorabol : Music Channel",Myx PH
+https://myxnola-abscbn-ono.amagi.tv/index_2.m3u8
