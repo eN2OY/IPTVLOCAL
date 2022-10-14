@@ -244,3 +244,7 @@ http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/1611
 
 #EXTINF:-1 tvg-id="France24English.fr" tvg-logo="https://www.mncvision.id/userfiles/image/channel/france_150px.jpg" tvg-name="France 24" group-title="Adorabol : News Channel",France 24
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/FRANCE24English/live
+
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/hhd8QjJ.jpg" group-title="Ph local cable channels", A2Z
+https://m3u-editor.com/serve/e0e934f0-39a4-11ed-8cf4-ffdde739f618/644400508
