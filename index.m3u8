@@ -12,3 +12,7 @@ https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1666647295/ei/
 
 #EXTINF:-1 tvg-id="PIE" tvg-name="ESPN 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/38/PIE_Channel.png/" ,PIE CHANNEL
 https://white-sun-aab9.jimmyasongii122899.workers.dev/stream/iampieofficial/master.m3u8
+
+
+#EXTINF:-1 tvg-id="ANC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/ANClogo2014.svg/512px-ANClogo2014.svg.png" tvg-name="ANC" ,ANC
+https://white-sun-aab9.jimmyasongii122899.workers.dev/stream/abscbnnews/master.m3u8
