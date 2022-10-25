@@ -16,3 +16,6 @@ https://white-sun-aab9.jimmyasongii122899.workers.dev/stream/iampieofficial/mast
 
 #EXTINF:-1 tvg-id="ANC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/ANClogo2014.svg/512px-ANClogo2014.svg.png" tvg-name="ANC" ,ANC
 https://white-sun-aab9.jimmyasongii122899.workers.dev/stream/abscbnnews/master.m3u8
+
+#EXTINF:-1 tvg-id="SpongeBobOfficial" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/22/SpongeBob_SquarePants_logo_by_Nickelodeon.svg/250px-SpongeBob_SquarePants_logo_by_Nickelodeon.svg.png" tvg-name="SpongeBobOfficial" ,Sponge Bob Official
+https://white-sun-aab9.jimmyasongii122899.workers.dev/stream/SpongeBobOfficial/master.m3u8
