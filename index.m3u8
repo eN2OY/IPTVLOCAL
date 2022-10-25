@@ -44,3 +44,9 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/Net25
 
 #EXTINF:-1 tvg-id="INCTV.ph" tvg-logo="https://i.imgur.com/FcLAaMT.png" tvg-name="INC TV" ,INC TV
 https://cocphil.akamaized.net/hls/live/2042846/inctv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TheFilipinoChannelAsia.us" tvg-logo="https://i.imgur.com/waE1BeJ.png" tvg-name="TFC" ,TFC
+https://bit.ly/adoraboltfc
+
+#EXTINF:-1 tvg-id="DreamWorksChannelAsia.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/DreamWorks_Channel_Logo.svg/512px-DreamWorks_Channel_Logo.svg.png" ,DreamWorks (1080p)
+https://kr-streams.onrender.com/scraper?channel=451
