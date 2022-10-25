@@ -23,3 +23,6 @@ https://white-sun-aab9.jimmyasongii122899.workers.dev/stream/SpongeBobOfficial/m
 
 #EXTINF:-1 tvg-id="ChuChuTV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2e/ChuChu_TV_2015_logo.jpg" tvg-name="ChuChuTV" ,Chu Chu TV
 https://white-sun-aab9.jimmyasongii122899.workers.dev/stream/ChuChuTV/master.m3u8
+
+#EXTINF:-1 tvg-id="Aljazeera" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/71/Aljazeera.svg/90px-Aljazeera.svg.png" tvg-name="Al Jazeera" ,Al Jazeera
+https://live-hls-web-aje.getaj.net/AJE/03.m3u8
