@@ -33,3 +33,7 @@ https://white-sun-aab9.jimmyasongii122899.workers.dev/stream/UNTVNewsandRescue/m
 
 #EXTINF:-1 tvg-id="NatGeo" tvg-logo="https://1000logos.net/wp-content/uploads/2021/04/National-Geographic-logo-500x281.png" tvg-name="NatGeo" ,Nat Geo
 https://white-sun-aab9.jimmyasongii122899.workers.dev/stream/NatGeo/master.m3u8
+
+
+#EXTINF:-1 tvg-id="NASA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/NASA_logo.svg/110px-NASA_logo.svg.png" tvg-name="NASA" ,NASA
+https://white-sun-aab9.jimmyasongii122899.workers.dev/stream/NASA/master.m3u8
