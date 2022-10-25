@@ -50,3 +50,7 @@ https://bit.ly/adoraboltfc
 
 #EXTINF:-1 tvg-id="DreamWorksChannelAsia.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/DreamWorks_Channel_Logo.svg/512px-DreamWorks_Channel_Logo.svg.png" ,DreamWorks (1080p)
 https://kr-streams.onrender.com/scraper?channel=451
+
+
+#EXTINF:-1 tvg-id="MyxPhilippines.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Myxphlogo.svg/512px-Myxphlogo.svg.png" ,Myx PH
+https://myxnola-abscbn-ono.amagi.tv/index_2.m3u8
