@@ -36,11 +36,11 @@ https://white-sun-aab9.jimmyasongii122899.workers.dev/stream/NASA/master.m3u8
 #EXTINF:-1 tvg-id="KapamilyaChannel.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/69/Kapamilya_Channel.png/512px-Kapamilya_Channel.png" group-title="Undefined",Kapamilya Channel
 https://white-sun-aab9.jimmyasongii122899.workers.dev/stream/abscbnentertainment/master.m3u8
 
-#EXTINF:-1 tvg-id="GMAPinoyMiddleEast.ph" tvg-name="GMA Pinoy Middle Esat" tvg-logo="https://i.imgur.com/L6XcXK9.png" group-title="Adorabol : PH Tv Channel",GMA Pinoy TV
+#EXTINF:-1 tvg-id="GMAPinoyMiddleEast.ph" tvg-name="GMA Pinoy Middle Esat" tvg-logo="https://i.imgur.com/L6XcXK9.png" ,GMA Pinoy TV
 http://1.qqtv.nl:8080/Nancy1/1Nancy/71438
 
-#EXTINF:-1 tvg-id="Net25.ph" tvg-logo="https://i.imgur.com/dkDV4UZ.png" ,NET 25 (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="Net25.ph" tvg-logo="https://i.imgur.com/dkDV4UZ.png"  tvg-name="NET 25 (1080p) [Not 24/7]" ,NET 25 (1080p) [Not 24/7]
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/Net25Tv/live
 
-#EXTINF:-1 tvg-id="INCTV.ph" tvg-logo="https://i.imgur.com/FcLAaMT.png" ,INC TV (1080p)
+#EXTINF:-1 tvg-id="INCTV.ph" tvg-logo="https://i.imgur.com/FcLAaMT.png" tvg-name="INC TV" ,INC TV
 https://cocphil.akamaized.net/hls/live/2042846/inctv/playlist.m3u8
