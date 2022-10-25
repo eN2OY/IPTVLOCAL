@@ -41,3 +41,6 @@ http://1.qqtv.nl:8080/Nancy1/1Nancy/71438
 
 #EXTINF:-1 tvg-id="Net25.ph" tvg-logo="https://i.imgur.com/dkDV4UZ.png" ,NET 25 (1080p) [Not 24/7]
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/Net25Tv/live
+
+#EXTINF:-1 tvg-id="INCTV.ph" tvg-logo="https://i.imgur.com/FcLAaMT.png" ,INC TV (1080p)
+https://cocphil.akamaized.net/hls/live/2042846/inctv/playlist.m3u8
