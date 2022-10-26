@@ -54,3 +54,6 @@ https://kr-streams.onrender.com/scraper?channel=451
 
 #EXTINF:-1 tvg-id="MyxPhilippines.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Myxphlogo.svg/512px-Myxphlogo.svg.png" ,Myx PH
 https://myxnola-abscbn-ono.amagi.tv/index_2.m3u8
+
+#EXTINF:-1 tvg-id="A2Z.Channel.11.ph" tvg-logo="https://i.imgur.com/vd0vb52.png" group-title="Live TV: PHLocal&Cable | TCH", A2Z
+https://bit.ly/FEITAN-A2Z
