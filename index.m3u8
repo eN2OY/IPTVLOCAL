@@ -68,3 +68,7 @@ http://103.73.58.238:8443//live//0wfTXQpyyDTgBJJ4nhg12Q//1666787675/428.m3u8
 
 #EXTINF:-1 tvg-id="GMA.7.ph" tvg-logo="https://i.imgur.com/Cu1tAY8.png" group-title="Live TV: PHLocal&Cable | TCH", GMA
 http://103.73.58.238:8443//live//0wfTXQpyyDTgBJJ4nhg12Q//1666787675/431.m3u8
+
+
+#EXTINF:-1 tvg-id="OnePH.ph" tvg-logo="https://i.imgur.com/gkluDe9.png" group-title="Live TV: PHLocal&Cable | TCH", One PH
+http://103.152.216.26:8443//live//6PQI5OpjaPLuiFOHj1f7pQ//1666787815//162.m3u8
