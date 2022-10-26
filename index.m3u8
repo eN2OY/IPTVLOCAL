@@ -57,3 +57,7 @@ https://myxnola-abscbn-ono.amagi.tv/index_2.m3u8
 
 #EXTINF:-1 tvg-id="A2Z.Channel.11.ph" tvg-logo="https://i.imgur.com/vd0vb52.png" group-title="Live TV: PHLocal&Cable | TCH", A2Z
 https://bit.ly/FEITAN-A2Z
+
+#EXTINF:-1 tvg-id="CINEMAONE.ph" tvg-logo="https://i.imgur.com/IvzLdLO.png" group-title="Live TV: PHLocal&Cable | TCH", Cinema One Global
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/225357
+
